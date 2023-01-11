@@ -1,0 +1,7 @@
+# Esta é a tecnologia wappalyzer personalizada para o arquivo de mapeamento de tags usado com a varredura automática de núcleos (-as)
+# Este arquivo de mapeamento configurável adicional usado para cobrir casos de borda conhecidos que possivelmente perderam ou não é possível mapear de maneira automática
+# Para mais detalhes: https://github.com/projectdiscovery/nuclei/issues/1749
+# Formato de arquivo de mapeamento:
+# tecnologia: tags1,tags2
+
+nó.js: nodejs
